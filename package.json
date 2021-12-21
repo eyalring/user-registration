@@ -1,0 +1,23 @@
+{
+  "name": "user-registration",
+  "version": "1.0.0",
+  "description": "user-registration",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyalring/user-registration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eyalring/user-registration/issues"
+  },
+  "homepage": "https://github.com/eyalring/user-registration#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
